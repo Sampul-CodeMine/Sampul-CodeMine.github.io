@@ -97,29 +97,29 @@ To install all these requirements do the following:
 
 #### Home Page
 <p>
-<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/screens/home1.PNG"><br>
-<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/screens/home2.PNG"><br>
-<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/screens/home3.PNG"><br>
+<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/blob/master/screens/home1.PNG"><br>
+<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/blob/master/screens/home2.PNG"><br>
+<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/blob/master/screens/home3.PNG">
 </p>
 
 #### About Page
 <p>
-<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/screens/about.PNG">
+<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/blob/master/screens/about.PNG">
 </p>
 
 #### Contact Page
 <p>
-<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/screens/contact.PNG">
+<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/blob/master/screens/contact.PNG">
 </p>
 
 #### Registration Page
 <p>
-<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/screens/register.PNG">
+<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/blob/master/screens/register.PNG">
 </p>
 
 #### Login Page
 <p>
-<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/screens/login.PNG">
+<img src="https://github.com/Sampul-CodeMine/Sampul-CodeMine.github.io/blob/master/screens/login.PNG">
 </p>
 
 
