@@ -19,24 +19,68 @@ body {
 .jumbotron div#msg p {
     color:#2a2206
 }
-
 .btn-secondary {
     background-color: transparent;
     border-color: rgb(216, 105, 36);
     color: rgb(216, 105, 36);
 }
-
 #logo-img {
     width: 50px;
 }
-
-span#red-logo, span#blue-logo {
+span.red-logo, span.blue-logo {
     font-weight: bold;
     font-style: italics;
 }
-span#blue-logo {
+span.blue-logo {
     color: rgb(48, 65, 80);
 }
-span#red-logo {
+span.red-logo {
     color: rgb(216, 105, 36);
+}
+span#delete_secret {
+    font-style: italic;
+    font-weight: bold;
+    color: crimson;
+}
+
+#wrapper {
+    display: block;
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+    box-sizing: border-box;
+}
+.social-icon {
+    color: rgb(216, 105, 36);
+}
+.map-container {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+.map-container iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.content-section {
+    background-color: #fff;
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+.account-img {
+    height: 125px;
+    width: 125px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+}
+.account-heading {
+    font-size: 2.5rem;
+}
+textarea, textarea#content, textarea#message {
+    resize: none !important;
 }
